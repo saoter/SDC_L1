@@ -4,11 +4,11 @@ This repository contains lecutre slides, python scripts and dataset for the firs
 
 
 ## API
-- **api_weather.py** is an example of real public API
-- **api_jokes.py** is an example of simple public API
-- **api_finance.py**, **api_news.py** are examples of limited public API using API_key (You need to register to get your private key)
-- EXTRA: **joke_app.py** is a simple streamlit app that uses IPA to print jokes
-- EXTRA: **api_weather.py** exercise from the class
+- **api_weather.ipynb** is an example of real public API
+- **api_jokes.ipynb** is an example of simple public API
+- **api_finance.ipynb**, **api_news.ipynb** are examples of limited public API using API_key (You need to register to get your private key)
+- EXTRA: **joke_app.ipynb** is a simple streamlit app that uses IPA to print jokes
+- EXTRA: **api_weather.ipynb** exercise from the class
 
 
 
