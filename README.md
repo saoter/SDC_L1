@@ -1,4 +1,4 @@
-# MLOps Lecture 1 - Intro to APIs & DataBases
+# MLOps Lecture 9 - MLOps in Business context
 
 This repository contains lecutre slides, python scripts and dataset for the first lecture. 
 
